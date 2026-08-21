@@ -1,0 +1,11 @@
+{
+  "name": "Med AI – Smart Medicine Assistant",
+  "description": "An AI-powered assistant for medicine management, pill identification, and health monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
